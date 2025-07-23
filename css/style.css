@@ -36,14 +36,14 @@
   margin-top: 10px;
 }
 
-/* .line-number {
+ .line-number {
   background: #2e2e2e;
   color: #aaa;
   padding: 10px;
   width: 30px;
   text-align: right;
   font-family: monospace;
-} */
+} 
 
 .code {
   flex: 1;
