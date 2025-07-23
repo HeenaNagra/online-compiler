@@ -13,7 +13,7 @@ compileBtn.onclick = () => {
 
   if (!code) {
     resultDisplay.style.color = 'red'; 
-    resultDisplay.textContent = "Please write some code before compiling.";
+    resultDisplay.textContent = "Please write code before compiling.";
     return;
   }
 
